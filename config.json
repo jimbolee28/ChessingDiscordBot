@@ -1,0 +1,6 @@
+{
+  "prefix": "[",
+  "token": "YOUR-BOT-TOKEN",
+  "mongoURL": "YOUR-MONGO-DB-ATLAS-LINK",
+  "youtubeapi": "YOUR-GOOGLE-API-CODE"
+}
