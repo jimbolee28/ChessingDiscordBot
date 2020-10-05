@@ -38,7 +38,7 @@ The following are the Discord bot commands
 
 ## Author
 
-Jimmy Zhang, CMU '24
+Jimmy Zhang
 
 ## Support!
 
