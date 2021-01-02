@@ -42,4 +42,4 @@ Jimmy Zhang
 
 ## Support!
 
-[![Discord](https://cdn.discordapp.com/attachments/740622861240238225/762502409536274462/LOGO_for_CHESS_1_1.jpg)](https://discord.gg/QztSYgV) Join the Cinco Ranch High School Discord!
+[![Discord](https://cdn.discordapp.com/attachments/740622861240238225/762502409536274462/LOGO_for_CHESS_1_1.jpg)](https://discord.gg/QztSYgV) Join the Cinco Ranch High School Chess Club Discord!
